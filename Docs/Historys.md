@@ -5,14 +5,14 @@
 
 ## 🧠 The Engineer Behind Modern Search & Big Data
 
-**:contentReference[oaicite:0]{index=0}** is a software engineer who didn’t just *use* systems —  
+**Douglas Cutting** is a software engineer who didn’t just *use* systems —  
 he **built the foundations** of modern **search engines** and **big-data processing**.
 
 ---
 
 ## 🔍 Lucene — Building Search from Scratch (1997)
 
-- Created **:contentReference[oaicite:1]{index=1}**
+- Created **Lucene**
 - A **high-performance text search library**
 - Designed core ideas:
   - Inverted Index
@@ -26,7 +26,7 @@ he **built the foundations** of modern **search engines** and **big-data process
 
 ## 🌐 Nutch — Searching the Whole Web (2000–2004)
 
-- Created **:contentReference[oaicite:2]{index=2}**
+- Created **Nutch**
 - Goal: **build an open-source Google-like search engine**
 - Combined:
   - Web crawler
@@ -42,7 +42,7 @@ Traditional systems **couldn’t scale cheaply**.
 
 ## 📄 The Turning Point — Google’s Paper
 
-- Read Google’s **:contentReference[oaicite:3]{index=3}** paper
+- Read Google’s **MapReduce** paper
 - Key realization:
   > “Distributed processing on commodity hardware is possible.”
 
@@ -52,7 +52,7 @@ Traditional systems **couldn’t scale cheaply**.
 
 ## 🐘 Hadoop — Big Data for Everyone (2005)
 
-- Created **:contentReference[oaicite:4]{index=4}**
+- Created **Hadoop**
 - Inspired by:
   - Google File System (GFS)
   - MapReduce
@@ -70,7 +70,7 @@ Traditional systems **couldn’t scale cheaply**.
 ## 🏛️ Open Source at Scale
 
 - Donated **Lucene**, **Nutch**, and **Hadoop** to Apache
-- Became Chairman of the **:contentReference[oaicite:5]{index=5}**
+- Became Chairman of the **Apache Software Foundation**
 - Helped define modern open-source governance
 
 ---

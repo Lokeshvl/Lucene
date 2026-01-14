@@ -4,7 +4,7 @@
 ---
 ## 🧠 The Birth of Lucene (1997)
 
-**:contentReference[oaicite:0]{index=0}** created **Lucene** to solve one core problem:
+**Douglas Cutting** created **Lucene** to solve one core problem:
 
 > “How do we search large amounts of text *fast* and *accurately*?”
 
@@ -14,7 +14,7 @@ At that time, **search engines were slow, expensive, and proprietary**.
 
 ## 🔍 What Lucene Is
 
-- **:contentReference[oaicite:1]{index=1}** is a **high-performance text search library**
+- **Lucene** is a **high-performance text search library**
 - Written in **Java**
 - Not a search engine UI  
   👉 It is the **engine behind the search**
@@ -50,7 +50,7 @@ Lucene introduced powerful concepts that are still used today:
 ## 🏛️ Open Source Move
 
 - Douglas Cutting **donated Lucene to Apache**
-- Became part of the **:contentReference[oaicite:2]{index=2}**
+- Became part of the **Apache Software Foundation**
 - Community-driven development started
 
 ---
